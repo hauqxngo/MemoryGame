@@ -1,0 +1,41 @@
+#game div {
+    border: 1px solid black;
+    border-radius: 25px;
+    width: 15%;
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+    background-color: mintcream;
+  }
+  
+  body {
+    background-color: #caf7e3;
+  }
+  
+  h1 {
+    color: darkgray;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5rem;
+  }
+  
+  h2 {
+    color: darkgray;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3rem;
+    text-align: center;
+    padding: 5px;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  button {
+    border-radius: 10px;
+    margin: 0 auto;
+    display: block;
+    background-color: mintcream;
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+  }
